@@ -1,3 +1,7 @@
+# Ne pas versionner les données
+data/*
+!data/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
